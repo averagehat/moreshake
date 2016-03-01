@@ -4,7 +4,7 @@
 module Lib where
 --    ( someFunc
 --    ) where
-
+-- lasers
 import Options.Generic
 
 import Development.Shake
